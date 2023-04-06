@@ -1,0 +1,23 @@
+FRUITS & VEGETABLES
+
+CODE    ITEM NAME     ITEM PRICE
+101     MANGO         100/KG
+102     APPLE         80/KG
+103     ORANGE        50/KG
+104     BANANA        20/DOZEN
+105     POMOGRANATE   70/KG
+106     CUSTARD APPLE 90/KG
+107     STRAWBERRY    70/PACK
+108     CHERRY        80/PACK
+109     KIWI          50/PACK
+110     BROCCOLI      65/PACK
+111     ONION         80/KG
+112     POTATO        40/KG
+113     TOMATO        50/KG
+114     PEAS          30/KG
+115     BRINJAL       20/KG       
+116     OKRA          30/KG
+117     BEANS         50/KG
+118     CUCUMBER      40/KG
+119     CARROT        60/KG
+120     RADDISH       50/KG

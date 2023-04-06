@@ -1,0 +1,10 @@
+JUICES
+
+CODE    ITEM NAME           ITEM COST
+315     ORANGE JUICE           15
+316     APPLE JUICE            15
+317     MANGO JUICE            15
+318     PINEAPPLE JUICE        17
+319     POMEGRANATE JUICE      19
+320     LEMON JUICE            13
+321     CRANBERRY JUICE        14

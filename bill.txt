@@ -1,0 +1,6 @@
+The quantity for added product (AMUL CHEESE ) : 2
+The total price of AMUL CHEESE  is 220
+The quantity for added product (SANDWICH BREAD ) : 3
+The total price of SANDWICH BREAD  is 81
+The quantity for added product (LIME-FLOOR CLEANER ) : 4
+The total price of LIME-FLOOR CLEANER  is 280

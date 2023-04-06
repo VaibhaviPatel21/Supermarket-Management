@@ -1,0 +1,8 @@
+DISHWASHER
+
+CODE     ITEM NAME                    ITEM PRICE
+211      VIM- LIQUID GEL              98
+212      EXO- TOUCH GEL               224    
+213      PRILL- LIME GEL              330
+214      GIFFY- LEMON GEL             209
+215      GODREJ GERM PROJECTION GEL   131

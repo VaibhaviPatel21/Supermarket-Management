@@ -1,0 +1,7 @@
+CLEANERS
+
+CODE     ITEM NAME                              ITEM PRICE
+207      HARPIC-DISINFECTANT TOILET CLEANER     223
+208      LIZOL-KITCHEN CLEANER                  83
+209      LIME-FLOOR CLEANER                     70
+210      NEEM-FLOOR CLEANER                     85

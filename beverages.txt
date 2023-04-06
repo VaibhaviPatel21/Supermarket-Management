@@ -1,0 +1,6 @@
+BEVERAGES
+SR.NO    ITEM NAME     
+  1      COFFEE
+  2      TEA
+  3      FRUIT JUICES
+  4      MILK                      

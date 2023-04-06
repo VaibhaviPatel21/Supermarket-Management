@@ -1,0 +1,8 @@
+ORAL CARE
+
+CODE    ITEM NAME               ITEM PRICE
+511     TOOTHPASTE              147
+512     MOUTHWASH               198
+513     TOOTHBRUSH              20
+514     TONGUE CLEANER          79
+515     SENSITIVE TOOTHBRUSH    40

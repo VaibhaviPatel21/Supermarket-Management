@@ -1,0 +1,10 @@
+PERSONAL CARE
+
+SR.NO    ITEM NAME  
+ 1       HAIR CARE
+ 2       SKIN CARE
+ 3       ORAL CARE
+ 4       PERFUMES 
+  
+   
+                    

@@ -1,0 +1,20 @@
+DAIRY AND BREAD
+CODE    ITEM NAME          ITEM PRICE
+401     AMUL CHEESE        110
+402     AMUL BUTTER        39
+403     AMUL BUTTERMILK    21
+404     AMUL YOGURT        16
+405     AMUL PANEER        110
+406     AMUL GHEE          610/KG
+407     BROWN BREAD        47
+408     WHITE BREAD        38
+409     BURGER BUNS        55
+410     MULTIGRAIN BREAD   40
+411     ATTA BREAD         39
+412     WHOLE WHEAT BREAD  36
+413     PIZZA BASE         31
+414     PAV                24
+415     SANDWICH BREAD     27
+  
+   
+                    

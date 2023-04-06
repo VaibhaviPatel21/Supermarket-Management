@@ -1,0 +1,8 @@
+SKIN CARE
+
+CODE    ITEM NAME         ITEM PRICE
+506     BODY LOTION       320    
+507     FACE WASH         50
+508     FACE CREAM        102
+509     LIP CARE          25
+510     NEEM FACE WASH    67

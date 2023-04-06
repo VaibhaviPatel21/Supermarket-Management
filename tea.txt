@@ -1,0 +1,9 @@
+                             TEA
+CODE    ITEM NAME                    ITEM PRICE
+308     RED LABEL-NATURE CARE TEA    264/PACK(500GM)
+309     TATA TEA GOLD                500/PACK(1000GM)
+310     TAJ MAHAL-TEA                630/PACK(1000GM)
+311     TATA TEA                     476/PACK(1000GM)
+312     LIPTON GREEN TEA             135/PACK(135GM)
+313     TATA GREEN TEA               450/PACK(250GM)
+314     PREMIUM LEAF TEA             500/PACK(1000GM)
